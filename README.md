@@ -1,22 +1,22 @@
 # glacial-lake-outburst-detection
 An AI-powered Early Warning System for Glacial Lake Outburst Floods (GLOFs) using sensors, drones, data fusion, digital twin simulation, and failure-first risk modeling.
-## 📌 Overview
+##  Overview
 Glacial Lake Outburst Floods (GLOFs) are sudden and catastrophic floods caused by the failure of glacial lakes. This project proposes an **AI-powered Early Warning System** that predicts failures *before* they happen using real-time data, simulations, and intelligent risk analysis.
 
-## 🚨 Problem Statement
+##  Problem Statement
 GLOFs have caused massive loss of life, destruction of villages, infrastructure damage, and economic loss.  
 Existing systems often:
 - Detect floods **after** failure
 - Rely on limited sensor data
 - Do not simulate future scenarios
 
-## 💡 Proposed Solution
+##  Proposed Solution
 A **Failure-First, Multi-Modal Early Warning System** that:
 - Predicts GLOF risk before rupture
 - Simulates flood behavior using a Digital Twin
 - Sends targeted alerts only to affected zones
 
-## ⚙️ System Architecture
+##  System Architecture
 
 ### Step 1 — Data Collection at Glacier Lake
 Sensors continuously collect:
@@ -31,19 +31,16 @@ Additional sources:
 - Drones capture cracks and erosion
 - Cameras monitor lake conditions  
 
-📡 Result: Live field data
+ Result: Live field data
 
 ### Step 2 — Data Transmission
 All collected data is transmitted via:
 - IoT networks
 - Satellite communication  
-
 To:
 - Cloud server / Central control system  
 
-⏱ Real-time data flow
-
----
+ Real-time data flow
 
 ### Step 3 — Multi-Modal Data Fusion
 The system combines:
@@ -53,7 +50,7 @@ The system combines:
 - Satellite data
 - Historical flood records  
 
-🧠 AI analyzes all data together.
+ AI analyzes all data together.
 
 ### Step 4 — Living Digital Twin Simulation
 A virtual replica of the glacial lake:
@@ -61,7 +58,7 @@ A virtual replica of the glacial lake:
 - Simulates future conditions
 - Tests possible lake burst scenarios  
 
-🔮 Predicts outcomes before real failure
+ Predicts outcomes before real failure
 
 ### Step 5 — Failure-First Modeling
 Instead of waiting for disaster, the system asks:
@@ -90,30 +87,26 @@ The system suggests actions like:
 - Dam reinforcement
 - Emergency preparedness
 
-## 🌍 Impact & Benefits
+##  Impact & Benefits
 - Saves lives
 - Reduces economic losses
 - Improves disaster preparedness
 - Enables early evacuation
 - Supports climate resilience
 
-## 🚀 Future Scope
+##  Future Scope
 - AI model enhancement
 - Integration with government disaster systems
 - Mobile app for alerts
 - Automated response systems
 - Global glacier monitoring
 
-## 👥 Team
+##  Team
 Amruta- Project Lead
-Saravana- AI/ML Engineer
-Aishwarya- IoT Engineer
-Desigan- Data Analyst
-- Disaster Management Expert
-
----
-
-## 📜 License
+Aishwarya-IoT & Sensors
+Saravana-Data & AI
+Desigan-Cloud & Alerts
+## 📜License
 This project is licensed under the MIT License.
 
 
