@@ -108,6 +108,3 @@ Saravana-Data & AI
 Desigan-Cloud & Alerts
 ## 📜License
 This project is licensed under the MIT License.
-
-
-**Example:**
